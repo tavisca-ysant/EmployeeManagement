@@ -1,0 +1,9 @@
+C:\Users\ysant\source\repos\EmployeeManagement\EmployeeManagement.DataAccess\bin\Debug\netstandard2.0\EmployeeManagement.DataAccess.deps.json
+C:\Users\ysant\source\repos\EmployeeManagement\EmployeeManagement.DataAccess\bin\Debug\netstandard2.0\EmployeeManagement.DataAccess.dll
+C:\Users\ysant\source\repos\EmployeeManagement\EmployeeManagement.DataAccess\obj\Debug\netstandard2.0\EmployeeManagement.DataAccess.csprojAssemblyReference.cache
+C:\Users\ysant\source\repos\EmployeeManagement\EmployeeManagement.DataAccess\obj\Debug\netstandard2.0\EmployeeManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ysant\source\repos\EmployeeManagement\EmployeeManagement.DataAccess\obj\Debug\netstandard2.0\EmployeeManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ysant\source\repos\EmployeeManagement\EmployeeManagement.DataAccess\obj\Debug\netstandard2.0\EmployeeManagement.DataAccess.AssemblyInfo.cs
+C:\Users\ysant\source\repos\EmployeeManagement\EmployeeManagement.DataAccess\bin\Debug\netstandard2.0\EmployeeManagement.DataAccess.pdb
+C:\Users\ysant\source\repos\EmployeeManagement\EmployeeManagement.DataAccess\obj\Debug\netstandard2.0\EmployeeManagement.DataAccess.dll
+C:\Users\ysant\source\repos\EmployeeManagement\EmployeeManagement.DataAccess\obj\Debug\netstandard2.0\EmployeeManagement.DataAccess.pdb
